@@ -1,2 +1,2 @@
-# laravel-first-project
+# laravel
 Coco de laravel
